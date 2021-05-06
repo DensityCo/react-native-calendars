@@ -1,6 +1,6 @@
 {
   "name": "react-native-calendars",
-  "version": "1.24.0",
+  "version": "1.24.1",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wix/react-native-calendars"
+    "url": "https://github.com/DensityCo/react-native-calendars.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
