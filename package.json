@@ -1,6 +1,6 @@
 {
   "name": "@DensityCo/react-native-calendars",
-  "version": "1.24.1",
+  "version": "1.24.2",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
   "scripts": {
