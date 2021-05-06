@@ -1,5 +1,5 @@
 {
-  "name": "@DensityCo/react-native-calendars",
+  "name": "@densityco/react-native-calendars",
   "version": "1.24.2",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
@@ -19,12 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DensityCo/react-native-calendars.git"
+    "url": "git+https://github.com/DensityCo/react-native-calendars.git"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
-  "author": "Wix.com",
+  "author": "Density.io",
   "license": "MIT",
   "dependencies": {
     "hoist-non-react-statics": "^3.3.1",
