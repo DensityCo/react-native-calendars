@@ -6,7 +6,7 @@
   "scripts": {
     "build": "xcodebuild -project ios/CalendarsExample.xcodeproj build",
     "e2e": "node ./scripts/test-e2e.js --release",
-    "test": "npm run lint && npm run unit && npm run e2e",
+    "test": "npm run lint && npm run unit",
     "unit": "jest",
     "lint": "eslint src/ example/src",
     "release": "node ./scripts/release.js",
@@ -31,6 +31,7 @@
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.15",
     "memoize-one": "^5.2.1",
+    "moment": "^2.24.0",
     "prop-types": "^15.5.10",
     "react-native-swipe-gestures": "^1.0.5",
     "xdate": "^0.8.0"
